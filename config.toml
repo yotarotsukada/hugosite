@@ -2,4 +2,3 @@ baseURL = 'http://example.org/'
 languageCode = 'ja'
 title = 'Hugo Testing Site'
 theme = "ananke"
-publishDir = "docs"
